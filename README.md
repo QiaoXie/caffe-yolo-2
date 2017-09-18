@@ -10,13 +10,8 @@
 ## Usage
 
 ### Data preparation
-```Shell
-```
+> Prepare data lsit just like the way of original darkenet
+> Use the data list to generate lmdb
 
-### Train
-```Shell
-```
-
-### Test
-```Shell
-```
+## Version
+> v1 & v2 supported
